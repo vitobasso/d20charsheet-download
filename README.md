@@ -1,9 +1,7 @@
 # d20charsheet-download
 D20 System character sheet manager Android app.
 
-(en) http://vitobasso.github.io/d20charsheet-download/
-
-(pt) http://vitobasso.github.io/d20charsheet-download/index_pt.html
+http://vitobasso.github.io/d20charsheet-download/
 
 
 Download apk:
