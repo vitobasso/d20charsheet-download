@@ -1,5 +1,5 @@
 # d20charsheet-download
-D20 System character sheet manager Android app.
+D20 System character sheet Android app.
 
 http://vitobasso.github.io/d20charsheet-download/
 
